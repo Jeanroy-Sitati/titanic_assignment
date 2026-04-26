@@ -80,4 +80,3 @@ Outlier handling: Fare is right-skewed with a few extreme luxury tickets. Capped
 - **Title** is surprisingly powerful – it encodes gender, age, and class in one feature
 - Solo travellers had notably lower survival rates than those travelling with 2–4 family members
 - Deck information (even as a binary HasCabin flag) adds signal – proximity to lifeboats mattered
-- The final selected feature set has ~20 columns, down from 30+ after OHE, with minimal redundancy
